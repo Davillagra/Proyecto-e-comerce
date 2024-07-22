@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cartMain {
+  display: flex;
+  height: inherit;
+  width: 60% !important;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 15rem;
+}
+.prodCard {
+  margin-top: 1rem !important;
+  padding: 16px;
+}
+
+.prodCardGrid {
+  margin: 0 !important;
+  width: 100%!;
+}
+h1 {
+  margin-left: 5rem;
+}
+.buySeccion {
+  margin-top: 1rem !important;
+  flex-wrap: nowrap !important;
+  flex-direction: column !important;
+  justify-content: flex-end;
+  gap: 2rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+.buttonList {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 !important;
+}

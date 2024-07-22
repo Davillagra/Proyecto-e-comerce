@@ -1,0 +1,89 @@
+.search {
+  margin: 5% 5% 3rem 5% !important;
+  align-items: center;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 5px;
+}
+.search div div {
+  width: 100%;
+}
+.searchFields .MuiOutlinedInput-notchedOutline {
+  border: none !important;
+}
+.searchBox {
+  padding-top: 0.4rem;
+}
+.search div button {
+  border-radius: 0;
+  border-left: 1px solid rgb(128, 128, 128);
+}
+.searchFields {
+  height: 100%;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.container {
+  flex-direction: column !important;
+  flex-wrap: nowrap !important;
+  align-items: center;
+}
+.navigation {
+  margin: 0 5rem 3rem 5rem !important;
+  flex-direction: column !important;
+  flex-wrap: nowrap !important;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  background-color: #7e7d7d;
+  border-radius: 15px;
+}
+.navigationLinks {
+  height: 4rem;
+  gap: unset !important;
+  flex-wrap: nowrap !important;
+  justify-content: space-around !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  align-items: center;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.navigationLinks a {
+  color: #34c53e;
+}
+
+.icons {
+  height: 2rem !important;
+  width: 2rem !important;
+}
+.prodAccordion {
+  height: 2rem;
+  width: auto;
+  background: unset !important;
+  border-radius: unset !important;
+  box-shadow: unset !important;
+}
+.accordionSummary {
+  margin: 0;
+  min-height: unset !important;
+  height: 2rem;
+  align-items: center;
+}
+
+.MuiAccordion-region {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #7e7d7d;
+}
+.prodCategory {
+  border-bottom: 1px dotted black;
+}
+a {
+  text-decoration: none;
+}
+.profilePicture {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 1rem;
+}

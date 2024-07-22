@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.loadingBar {
+  margin-left: 45%;
+  margin-top: 10%;
+}
+.main {
+  margin-bottom: 10rem;
+}
